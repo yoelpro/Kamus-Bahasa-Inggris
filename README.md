@@ -1,5 +1,5 @@
 # Kamus Bahasa Inggris
-![Screenshot](https://image.ibb.co/gk3ijJ/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/yoelpro/Kamus-Bahasa-Inggris/master/screenshot.PNG)
 
 Program sederhana yang berfungsi memberikan definisi suatu kata bahasa inggris, ditulis menggunakan bahasa python.
 Petunjuk penggunaan:
